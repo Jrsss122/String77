@@ -19,7 +19,7 @@ class Data:
             InlineKeyboardButton("Bantuan", callback_data="help"),
             InlineKeyboardButton("Tentang Saya", callback_data="about")
         ],
-        [InlineKeyboardButton("Support", url=f"https://t.me/{SUPPORT}")],
+        [InlineKeyboardButton("Support", url=f"https://t.me/Chjarsss1")],
     ]
 
     START = """
@@ -50,5 +50,5 @@ Buat Lu ID 5 atau ID 6 yang Baru Maen Telegram**
 
 Cuma Modal Copas Ya Anjeng, Gua Bukan ProDev Ya Bangsat
 
-Maintainer : @kenapanan**
+Maintainer : @Jrsss777**
     """
